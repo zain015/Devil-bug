@@ -35,7 +35,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti234 = true //auto block +234 
-global.anti92 = true
+global.anti92 = false
 global.anti254 = true
 global.autoswview = true //auto view status/story
 
